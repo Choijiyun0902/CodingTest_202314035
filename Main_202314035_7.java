@@ -1,6 +1,6 @@
 import java.util.*;
 
-class Solution {
+class Main_202314035_7 {
     // 인접 리스트에 저장할 노드 정보 클래스
     static class Node implements Comparable<Node> {
         int index; // 마을 번호
